@@ -1,0 +1,13 @@
+C:\work\c#\OrientacaoObjetos\04ExercicioIMC\obj\Debug\netcoreapp3.1\04ExercicioIMC.csprojAssemblyReference.cache
+C:\work\c#\OrientacaoObjetos\04ExercicioIMC\obj\Debug\netcoreapp3.1\04ExercicioIMC.AssemblyInfoInputs.cache
+C:\work\c#\OrientacaoObjetos\04ExercicioIMC\obj\Debug\netcoreapp3.1\04ExercicioIMC.AssemblyInfo.cs
+C:\work\c#\OrientacaoObjetos\04ExercicioIMC\obj\Debug\netcoreapp3.1\04ExercicioIMC.csproj.CoreCompileInputs.cache
+C:\work\c#\OrientacaoObjetos\04ExercicioIMC\bin\Debug\netcoreapp3.1\04ExercicioIMC.exe
+C:\work\c#\OrientacaoObjetos\04ExercicioIMC\bin\Debug\netcoreapp3.1\04ExercicioIMC.deps.json
+C:\work\c#\OrientacaoObjetos\04ExercicioIMC\bin\Debug\netcoreapp3.1\04ExercicioIMC.runtimeconfig.json
+C:\work\c#\OrientacaoObjetos\04ExercicioIMC\bin\Debug\netcoreapp3.1\04ExercicioIMC.runtimeconfig.dev.json
+C:\work\c#\OrientacaoObjetos\04ExercicioIMC\bin\Debug\netcoreapp3.1\04ExercicioIMC.dll
+C:\work\c#\OrientacaoObjetos\04ExercicioIMC\bin\Debug\netcoreapp3.1\04ExercicioIMC.pdb
+C:\work\c#\OrientacaoObjetos\04ExercicioIMC\obj\Debug\netcoreapp3.1\04ExercicioIMC.dll
+C:\work\c#\OrientacaoObjetos\04ExercicioIMC\obj\Debug\netcoreapp3.1\04ExercicioIMC.pdb
+C:\work\c#\OrientacaoObjetos\04ExercicioIMC\obj\Debug\netcoreapp3.1\04ExercicioIMC.genruntimeconfig.cache

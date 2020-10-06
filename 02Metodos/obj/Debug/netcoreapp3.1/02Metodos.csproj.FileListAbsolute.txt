@@ -1,0 +1,13 @@
+C:\work\c#\OrientacaoObjetos\02Metodos\bin\Debug\netcoreapp3.1\02Metodos.exe
+C:\work\c#\OrientacaoObjetos\02Metodos\bin\Debug\netcoreapp3.1\02Metodos.deps.json
+C:\work\c#\OrientacaoObjetos\02Metodos\bin\Debug\netcoreapp3.1\02Metodos.runtimeconfig.json
+C:\work\c#\OrientacaoObjetos\02Metodos\bin\Debug\netcoreapp3.1\02Metodos.runtimeconfig.dev.json
+C:\work\c#\OrientacaoObjetos\02Metodos\bin\Debug\netcoreapp3.1\02Metodos.dll
+C:\work\c#\OrientacaoObjetos\02Metodos\bin\Debug\netcoreapp3.1\02Metodos.pdb
+C:\work\c#\OrientacaoObjetos\02Metodos\obj\Debug\netcoreapp3.1\02Metodos.csprojAssemblyReference.cache
+C:\work\c#\OrientacaoObjetos\02Metodos\obj\Debug\netcoreapp3.1\02Metodos.AssemblyInfoInputs.cache
+C:\work\c#\OrientacaoObjetos\02Metodos\obj\Debug\netcoreapp3.1\02Metodos.AssemblyInfo.cs
+C:\work\c#\OrientacaoObjetos\02Metodos\obj\Debug\netcoreapp3.1\02Metodos.csproj.CoreCompileInputs.cache
+C:\work\c#\OrientacaoObjetos\02Metodos\obj\Debug\netcoreapp3.1\02Metodos.dll
+C:\work\c#\OrientacaoObjetos\02Metodos\obj\Debug\netcoreapp3.1\02Metodos.pdb
+C:\work\c#\OrientacaoObjetos\02Metodos\obj\Debug\netcoreapp3.1\02Metodos.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\work\c#\OrientacaoObjetos\05Encapsulamento\obj\Debug\netcoreapp3.1\05Encapsulamento.csprojAssemblyReference.cache
+C:\work\c#\OrientacaoObjetos\05Encapsulamento\obj\Debug\netcoreapp3.1\05Encapsulamento.AssemblyInfoInputs.cache
+C:\work\c#\OrientacaoObjetos\05Encapsulamento\obj\Debug\netcoreapp3.1\05Encapsulamento.AssemblyInfo.cs
+C:\work\c#\OrientacaoObjetos\05Encapsulamento\obj\Debug\netcoreapp3.1\05Encapsulamento.csproj.CoreCompileInputs.cache
+C:\work\c#\OrientacaoObjetos\05Encapsulamento\bin\Debug\netcoreapp3.1\05Encapsulamento.exe
+C:\work\c#\OrientacaoObjetos\05Encapsulamento\bin\Debug\netcoreapp3.1\05Encapsulamento.deps.json
+C:\work\c#\OrientacaoObjetos\05Encapsulamento\bin\Debug\netcoreapp3.1\05Encapsulamento.runtimeconfig.json
+C:\work\c#\OrientacaoObjetos\05Encapsulamento\bin\Debug\netcoreapp3.1\05Encapsulamento.runtimeconfig.dev.json
+C:\work\c#\OrientacaoObjetos\05Encapsulamento\bin\Debug\netcoreapp3.1\05Encapsulamento.dll
+C:\work\c#\OrientacaoObjetos\05Encapsulamento\bin\Debug\netcoreapp3.1\05Encapsulamento.pdb
+C:\work\c#\OrientacaoObjetos\05Encapsulamento\obj\Debug\netcoreapp3.1\05Encapsulamento.dll
+C:\work\c#\OrientacaoObjetos\05Encapsulamento\obj\Debug\netcoreapp3.1\05Encapsulamento.pdb
+C:\work\c#\OrientacaoObjetos\05Encapsulamento\obj\Debug\netcoreapp3.1\05Encapsulamento.genruntimeconfig.cache

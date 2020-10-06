@@ -1,0 +1,13 @@
+C:\work\c#\OrientacaoObjetos\03ExercicioEscolar\bin\Debug\netcoreapp3.1\03ExercicioEscolar.exe
+C:\work\c#\OrientacaoObjetos\03ExercicioEscolar\bin\Debug\netcoreapp3.1\03ExercicioEscolar.deps.json
+C:\work\c#\OrientacaoObjetos\03ExercicioEscolar\bin\Debug\netcoreapp3.1\03ExercicioEscolar.runtimeconfig.json
+C:\work\c#\OrientacaoObjetos\03ExercicioEscolar\bin\Debug\netcoreapp3.1\03ExercicioEscolar.runtimeconfig.dev.json
+C:\work\c#\OrientacaoObjetos\03ExercicioEscolar\bin\Debug\netcoreapp3.1\03ExercicioEscolar.dll
+C:\work\c#\OrientacaoObjetos\03ExercicioEscolar\bin\Debug\netcoreapp3.1\03ExercicioEscolar.pdb
+C:\work\c#\OrientacaoObjetos\03ExercicioEscolar\obj\Debug\netcoreapp3.1\03ExercicioEscolar.csprojAssemblyReference.cache
+C:\work\c#\OrientacaoObjetos\03ExercicioEscolar\obj\Debug\netcoreapp3.1\03ExercicioEscolar.AssemblyInfoInputs.cache
+C:\work\c#\OrientacaoObjetos\03ExercicioEscolar\obj\Debug\netcoreapp3.1\03ExercicioEscolar.AssemblyInfo.cs
+C:\work\c#\OrientacaoObjetos\03ExercicioEscolar\obj\Debug\netcoreapp3.1\03ExercicioEscolar.csproj.CoreCompileInputs.cache
+C:\work\c#\OrientacaoObjetos\03ExercicioEscolar\obj\Debug\netcoreapp3.1\03ExercicioEscolar.dll
+C:\work\c#\OrientacaoObjetos\03ExercicioEscolar\obj\Debug\netcoreapp3.1\03ExercicioEscolar.pdb
+C:\work\c#\OrientacaoObjetos\03ExercicioEscolar\obj\Debug\netcoreapp3.1\03ExercicioEscolar.genruntimeconfig.cache
