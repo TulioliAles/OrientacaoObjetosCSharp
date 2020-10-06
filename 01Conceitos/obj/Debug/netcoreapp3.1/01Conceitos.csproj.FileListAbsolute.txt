@@ -1,0 +1,13 @@
+C:\work\c#\OrientacaoObjetos\01Conceitos\bin\Debug\netcoreapp3.1\01Conceitos.exe
+C:\work\c#\OrientacaoObjetos\01Conceitos\bin\Debug\netcoreapp3.1\01Conceitos.deps.json
+C:\work\c#\OrientacaoObjetos\01Conceitos\bin\Debug\netcoreapp3.1\01Conceitos.runtimeconfig.json
+C:\work\c#\OrientacaoObjetos\01Conceitos\bin\Debug\netcoreapp3.1\01Conceitos.runtimeconfig.dev.json
+C:\work\c#\OrientacaoObjetos\01Conceitos\bin\Debug\netcoreapp3.1\01Conceitos.dll
+C:\work\c#\OrientacaoObjetos\01Conceitos\bin\Debug\netcoreapp3.1\01Conceitos.pdb
+C:\work\c#\OrientacaoObjetos\01Conceitos\obj\Debug\netcoreapp3.1\01Conceitos.csprojAssemblyReference.cache
+C:\work\c#\OrientacaoObjetos\01Conceitos\obj\Debug\netcoreapp3.1\01Conceitos.AssemblyInfoInputs.cache
+C:\work\c#\OrientacaoObjetos\01Conceitos\obj\Debug\netcoreapp3.1\01Conceitos.AssemblyInfo.cs
+C:\work\c#\OrientacaoObjetos\01Conceitos\obj\Debug\netcoreapp3.1\01Conceitos.csproj.CoreCompileInputs.cache
+C:\work\c#\OrientacaoObjetos\01Conceitos\obj\Debug\netcoreapp3.1\01Conceitos.dll
+C:\work\c#\OrientacaoObjetos\01Conceitos\obj\Debug\netcoreapp3.1\01Conceitos.pdb
+C:\work\c#\OrientacaoObjetos\01Conceitos\obj\Debug\netcoreapp3.1\01Conceitos.genruntimeconfig.cache
