@@ -1,0 +1,13 @@
+C:\work\c#\OrientacaoObjetos\09Polimorfismo\bin\Debug\netcoreapp3.1\09Polimorfismo.exe
+C:\work\c#\OrientacaoObjetos\09Polimorfismo\bin\Debug\netcoreapp3.1\09Polimorfismo.deps.json
+C:\work\c#\OrientacaoObjetos\09Polimorfismo\bin\Debug\netcoreapp3.1\09Polimorfismo.runtimeconfig.json
+C:\work\c#\OrientacaoObjetos\09Polimorfismo\bin\Debug\netcoreapp3.1\09Polimorfismo.runtimeconfig.dev.json
+C:\work\c#\OrientacaoObjetos\09Polimorfismo\bin\Debug\netcoreapp3.1\09Polimorfismo.dll
+C:\work\c#\OrientacaoObjetos\09Polimorfismo\bin\Debug\netcoreapp3.1\09Polimorfismo.pdb
+C:\work\c#\OrientacaoObjetos\09Polimorfismo\obj\Debug\netcoreapp3.1\09Polimorfismo.csprojAssemblyReference.cache
+C:\work\c#\OrientacaoObjetos\09Polimorfismo\obj\Debug\netcoreapp3.1\09Polimorfismo.AssemblyInfoInputs.cache
+C:\work\c#\OrientacaoObjetos\09Polimorfismo\obj\Debug\netcoreapp3.1\09Polimorfismo.AssemblyInfo.cs
+C:\work\c#\OrientacaoObjetos\09Polimorfismo\obj\Debug\netcoreapp3.1\09Polimorfismo.csproj.CoreCompileInputs.cache
+C:\work\c#\OrientacaoObjetos\09Polimorfismo\obj\Debug\netcoreapp3.1\09Polimorfismo.dll
+C:\work\c#\OrientacaoObjetos\09Polimorfismo\obj\Debug\netcoreapp3.1\09Polimorfismo.pdb
+C:\work\c#\OrientacaoObjetos\09Polimorfismo\obj\Debug\netcoreapp3.1\09Polimorfismo.genruntimeconfig.cache

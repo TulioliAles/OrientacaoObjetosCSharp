@@ -1,0 +1,13 @@
+C:\work\c#\OrientacaoObjetos\11Interface\bin\Debug\netcoreapp3.1\11Interface.exe
+C:\work\c#\OrientacaoObjetos\11Interface\bin\Debug\netcoreapp3.1\11Interface.deps.json
+C:\work\c#\OrientacaoObjetos\11Interface\bin\Debug\netcoreapp3.1\11Interface.runtimeconfig.json
+C:\work\c#\OrientacaoObjetos\11Interface\bin\Debug\netcoreapp3.1\11Interface.runtimeconfig.dev.json
+C:\work\c#\OrientacaoObjetos\11Interface\bin\Debug\netcoreapp3.1\11Interface.dll
+C:\work\c#\OrientacaoObjetos\11Interface\bin\Debug\netcoreapp3.1\11Interface.pdb
+C:\work\c#\OrientacaoObjetos\11Interface\obj\Debug\netcoreapp3.1\11Interface.csprojAssemblyReference.cache
+C:\work\c#\OrientacaoObjetos\11Interface\obj\Debug\netcoreapp3.1\11Interface.AssemblyInfoInputs.cache
+C:\work\c#\OrientacaoObjetos\11Interface\obj\Debug\netcoreapp3.1\11Interface.AssemblyInfo.cs
+C:\work\c#\OrientacaoObjetos\11Interface\obj\Debug\netcoreapp3.1\11Interface.csproj.CoreCompileInputs.cache
+C:\work\c#\OrientacaoObjetos\11Interface\obj\Debug\netcoreapp3.1\11Interface.dll
+C:\work\c#\OrientacaoObjetos\11Interface\obj\Debug\netcoreapp3.1\11Interface.pdb
+C:\work\c#\OrientacaoObjetos\11Interface\obj\Debug\netcoreapp3.1\11Interface.genruntimeconfig.cache

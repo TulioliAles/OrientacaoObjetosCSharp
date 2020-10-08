@@ -1,0 +1,13 @@
+C:\work\c#\OrientacaoObjetos\10Abstracao\bin\Debug\netcoreapp3.1\10Abstracao.exe
+C:\work\c#\OrientacaoObjetos\10Abstracao\bin\Debug\netcoreapp3.1\10Abstracao.deps.json
+C:\work\c#\OrientacaoObjetos\10Abstracao\bin\Debug\netcoreapp3.1\10Abstracao.runtimeconfig.json
+C:\work\c#\OrientacaoObjetos\10Abstracao\bin\Debug\netcoreapp3.1\10Abstracao.runtimeconfig.dev.json
+C:\work\c#\OrientacaoObjetos\10Abstracao\bin\Debug\netcoreapp3.1\10Abstracao.dll
+C:\work\c#\OrientacaoObjetos\10Abstracao\bin\Debug\netcoreapp3.1\10Abstracao.pdb
+C:\work\c#\OrientacaoObjetos\10Abstracao\obj\Debug\netcoreapp3.1\10Abstracao.csprojAssemblyReference.cache
+C:\work\c#\OrientacaoObjetos\10Abstracao\obj\Debug\netcoreapp3.1\10Abstracao.AssemblyInfoInputs.cache
+C:\work\c#\OrientacaoObjetos\10Abstracao\obj\Debug\netcoreapp3.1\10Abstracao.AssemblyInfo.cs
+C:\work\c#\OrientacaoObjetos\10Abstracao\obj\Debug\netcoreapp3.1\10Abstracao.csproj.CoreCompileInputs.cache
+C:\work\c#\OrientacaoObjetos\10Abstracao\obj\Debug\netcoreapp3.1\10Abstracao.dll
+C:\work\c#\OrientacaoObjetos\10Abstracao\obj\Debug\netcoreapp3.1\10Abstracao.pdb
+C:\work\c#\OrientacaoObjetos\10Abstracao\obj\Debug\netcoreapp3.1\10Abstracao.genruntimeconfig.cache
