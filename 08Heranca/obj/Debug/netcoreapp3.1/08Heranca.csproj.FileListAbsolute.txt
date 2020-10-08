@@ -1,0 +1,13 @@
+C:\work\c#\OrientacaoObjetos\08Heranca\bin\Debug\netcoreapp3.1\08Heranca.exe
+C:\work\c#\OrientacaoObjetos\08Heranca\bin\Debug\netcoreapp3.1\08Heranca.deps.json
+C:\work\c#\OrientacaoObjetos\08Heranca\bin\Debug\netcoreapp3.1\08Heranca.runtimeconfig.json
+C:\work\c#\OrientacaoObjetos\08Heranca\bin\Debug\netcoreapp3.1\08Heranca.runtimeconfig.dev.json
+C:\work\c#\OrientacaoObjetos\08Heranca\bin\Debug\netcoreapp3.1\08Heranca.dll
+C:\work\c#\OrientacaoObjetos\08Heranca\bin\Debug\netcoreapp3.1\08Heranca.pdb
+C:\work\c#\OrientacaoObjetos\08Heranca\obj\Debug\netcoreapp3.1\08Heranca.csprojAssemblyReference.cache
+C:\work\c#\OrientacaoObjetos\08Heranca\obj\Debug\netcoreapp3.1\08Heranca.AssemblyInfoInputs.cache
+C:\work\c#\OrientacaoObjetos\08Heranca\obj\Debug\netcoreapp3.1\08Heranca.AssemblyInfo.cs
+C:\work\c#\OrientacaoObjetos\08Heranca\obj\Debug\netcoreapp3.1\08Heranca.csproj.CoreCompileInputs.cache
+C:\work\c#\OrientacaoObjetos\08Heranca\obj\Debug\netcoreapp3.1\08Heranca.dll
+C:\work\c#\OrientacaoObjetos\08Heranca\obj\Debug\netcoreapp3.1\08Heranca.pdb
+C:\work\c#\OrientacaoObjetos\08Heranca\obj\Debug\netcoreapp3.1\08Heranca.genruntimeconfig.cache

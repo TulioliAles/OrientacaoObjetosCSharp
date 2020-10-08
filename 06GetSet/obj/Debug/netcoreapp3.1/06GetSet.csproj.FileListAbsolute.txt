@@ -1,0 +1,13 @@
+C:\work\c#\OrientacaoObjetos\06GetSet\obj\Debug\netcoreapp3.1\06GetSet.csprojAssemblyReference.cache
+C:\work\c#\OrientacaoObjetos\06GetSet\obj\Debug\netcoreapp3.1\06GetSet.AssemblyInfoInputs.cache
+C:\work\c#\OrientacaoObjetos\06GetSet\obj\Debug\netcoreapp3.1\06GetSet.AssemblyInfo.cs
+C:\work\c#\OrientacaoObjetos\06GetSet\obj\Debug\netcoreapp3.1\06GetSet.csproj.CoreCompileInputs.cache
+C:\work\c#\OrientacaoObjetos\06GetSet\bin\Debug\netcoreapp3.1\06GetSet.exe
+C:\work\c#\OrientacaoObjetos\06GetSet\bin\Debug\netcoreapp3.1\06GetSet.deps.json
+C:\work\c#\OrientacaoObjetos\06GetSet\bin\Debug\netcoreapp3.1\06GetSet.runtimeconfig.json
+C:\work\c#\OrientacaoObjetos\06GetSet\bin\Debug\netcoreapp3.1\06GetSet.runtimeconfig.dev.json
+C:\work\c#\OrientacaoObjetos\06GetSet\bin\Debug\netcoreapp3.1\06GetSet.dll
+C:\work\c#\OrientacaoObjetos\06GetSet\bin\Debug\netcoreapp3.1\06GetSet.pdb
+C:\work\c#\OrientacaoObjetos\06GetSet\obj\Debug\netcoreapp3.1\06GetSet.dll
+C:\work\c#\OrientacaoObjetos\06GetSet\obj\Debug\netcoreapp3.1\06GetSet.pdb
+C:\work\c#\OrientacaoObjetos\06GetSet\obj\Debug\netcoreapp3.1\06GetSet.genruntimeconfig.cache

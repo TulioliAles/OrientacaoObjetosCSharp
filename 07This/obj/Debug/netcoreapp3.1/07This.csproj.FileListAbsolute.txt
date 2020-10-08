@@ -1,0 +1,13 @@
+C:\work\c#\OrientacaoObjetos\07This\obj\Debug\netcoreapp3.1\07This.csprojAssemblyReference.cache
+C:\work\c#\OrientacaoObjetos\07This\obj\Debug\netcoreapp3.1\07This.AssemblyInfoInputs.cache
+C:\work\c#\OrientacaoObjetos\07This\obj\Debug\netcoreapp3.1\07This.AssemblyInfo.cs
+C:\work\c#\OrientacaoObjetos\07This\obj\Debug\netcoreapp3.1\07This.csproj.CoreCompileInputs.cache
+C:\work\c#\OrientacaoObjetos\07This\bin\Debug\netcoreapp3.1\07This.exe
+C:\work\c#\OrientacaoObjetos\07This\bin\Debug\netcoreapp3.1\07This.deps.json
+C:\work\c#\OrientacaoObjetos\07This\bin\Debug\netcoreapp3.1\07This.runtimeconfig.json
+C:\work\c#\OrientacaoObjetos\07This\bin\Debug\netcoreapp3.1\07This.runtimeconfig.dev.json
+C:\work\c#\OrientacaoObjetos\07This\bin\Debug\netcoreapp3.1\07This.dll
+C:\work\c#\OrientacaoObjetos\07This\bin\Debug\netcoreapp3.1\07This.pdb
+C:\work\c#\OrientacaoObjetos\07This\obj\Debug\netcoreapp3.1\07This.dll
+C:\work\c#\OrientacaoObjetos\07This\obj\Debug\netcoreapp3.1\07This.pdb
+C:\work\c#\OrientacaoObjetos\07This\obj\Debug\netcoreapp3.1\07This.genruntimeconfig.cache
